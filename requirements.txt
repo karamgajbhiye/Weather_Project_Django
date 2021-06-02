@@ -304,7 +304,7 @@ typing-extensions==3.7.4.1
 ujson==1.35
 unicodecsv==0.14.1
 uritemplate==3.0.0
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==16.6.2
 virtualenv-clone==0.5.3
 watchdog==0.10.2
