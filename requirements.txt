@@ -55,7 +55,7 @@ defusedxml==0.6.0
 diff-match-patch==20181111
 dill==0.3.1.1
 distributed==2.14.0
-Django==3.0.3
+Django==3.1.13
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
